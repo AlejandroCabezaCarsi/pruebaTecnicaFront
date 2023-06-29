@@ -1,0 +1,36 @@
+.cardDesign{ 
+    width: 10em;
+    height: 15em;
+    background-color: bisque;
+    border: solid black 0.2em;
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1em;
+}
+
+
+.pokemonImage{
+    width: 7em;
+    height:7em;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    border: solid black 0.2em;
+}
+
+.pokemonName{
+    width: 8em;
+    height: 2em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.pokemonType{
+    width: 8em;
+    height: 2em;
+    font-weight: bolder;
+    text-align: center;
+}
